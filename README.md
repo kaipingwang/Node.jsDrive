@@ -6,11 +6,10 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
+https://github.com/kaipingwang/Node.jsDrive.git
+
 # Install dependencies
-npm install
+npm install googleapis@27 --save
 # Run the app
 node driveApi.js
 
